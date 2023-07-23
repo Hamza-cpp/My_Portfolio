@@ -37,4 +37,4 @@ If you find my portfolio web app as inspiring as a supernova, a simple star ⭐�
 
 ## Connect across the Galaxies 🚀
 
-Our journey doesn't end here! Let's stay connected and explore the vast web of opportunities together. 🌌 Catch me on Twitter [@yourhandle](https://twitter.com/yourhandle) or join me in the cosmic network of professionals on LinkedIn [Your Name](https://www.linkedin.com/in/yourname/).<a href="https://www.example.com" target="_blank">Link text</a>
+Our journey doesn't end here! Let's stay connected and explore the vast web of opportunities together. 🌌 Catch me on Twitter [@yourhandle](https://twitter.com/) or join me in the cosmic network of professionals on LinkedIn [Your Name](https://www.linkedin.com/).
