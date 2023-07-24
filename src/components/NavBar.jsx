@@ -32,14 +32,14 @@ const CostumLink = ({ href, title, className = "" }) => {
 
 const NavBar = () => {
   return (
-    <header className="w-full bg-slate-500 px-16 py-8 flex justify-between items-center">
+    <header className="w-full bg-light px-16 py-8 flex justify-between items-center">
       <nav>
         <CostumLink href="/" title="Home" className="mr-4" />
         <CostumLink href="/about" title="About" className="mx-4" />
         <CostumLink href="/projects" title="Projects" className="mx-4" />
         <CostumLink href="/articles" title="Articles" className="ml-4" />
       </nav>
-      <div className="absolute left-[50%] top-2  translate-x-[-50%] mt-3">
+      <div className="absolute left-[50%] top-2  translate-x-[-50%] mt-2">
         <Logo />
       </div>
       <nav className="flex items-center flex-wrap justify-center">
